@@ -1,0 +1,32 @@
+
+#cabeceraweb{
+	background-color: #186C99;}
+
+#navegacionprincipal{
+	background-color: #186C99;
+}
+
+#barralateral{
+	background-color: #21618C;
+	float: left;
+	height: 2421px;
+}
+
+#contenidoprincipal{
+	background-color: #6DB7DE;
+	margin-left: 215px;
+	padding-left: 15px;
+	padding-top: 15px;
+	margin-right: 5px;
+}
+
+#pieprincipal{
+	background-color: #186C99;
+	clear: both;
+	
+}
+
+li{
+	background-color: #186C99;
+	display: inline;
+}
